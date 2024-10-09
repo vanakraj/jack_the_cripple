@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "j4ck_th3_cripp13", "j4ck_th3_cripp13.csproj", "{A173840E-D69C-42C5-AB20-E42514FA760B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A173840E-D69C-42C5-AB20-E42514FA760B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A173840E-D69C-42C5-AB20-E42514FA760B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A173840E-D69C-42C5-AB20-E42514FA760B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A173840E-D69C-42C5-AB20-E42514FA760B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6122CC0-6740-44C7-8728-DAD30F2B1597}
+	EndGlobalSection
+EndGlobal
